@@ -11,12 +11,12 @@ The ELT pipeline will be built by python scripts, SQL scripts, Airflow, GCP Clou
 
 
 ### Output:
-- [Written Report]()
+- [Written Report](https://github.com/Wenying-Wu/Airbnb-Listings-Data-Pipelines/blob/main/report_airbnb_listings_data_pipelines.pdf)
 
-- [Workfile - Data Exploration]()
+- [Workfile - Data Exploration](https://github.com/Wenying-Wu/Airbnb-Listings-Data-Pipelines/blob/main/workfile_preprocess.ipynb)
 
-- [Workfile - Design a data warehouse]() 
+- [Workfile - Design a data warehouse](https://github.com/Wenying-Wu/Airbnb-Listings-Data-Pipelines/blob/main/workfile_design_data_warehouse.sql) 
 
-- [Workfile - Populate the data warehouse]() 
+- [Workfile - Populate the data warehouse](https://github.com/Wenying-Wu/Airbnb-Listings-Data-Pipelines/blob/main/workfile_populate_data_warehouse.py) 
 
-- [Workfile - Ad-hoc analysis]()
+- [Workfile - Ad-hoc analysis](https://github.com/Wenying-Wu/Airbnb-Listings-Data-Pipelines/blob/main/workfile_ad-hoc_analysis.sql)
